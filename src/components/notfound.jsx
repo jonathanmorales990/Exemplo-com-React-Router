@@ -6,14 +6,14 @@ class Notfound extends Component {
   	
 		return (
 			<div>	
-			    <div>
-			      	<h1>404</h1>
-		        </div>
+				<div>
+					<h1>404</h1>
+				</div>
 
-		        <div>
-		        	<h2>Página não encontrada</h2>
-		        </div>
-		    </div>    
+				<div>
+					<h2>Página não encontrada</h2>
+				</div>
+			</div>    
 		);
 	    
   	}

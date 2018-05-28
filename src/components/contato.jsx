@@ -13,8 +13,8 @@ class Sobre extends Component {
 	render() {
   	
 		return (
-		    <div>
-		   		{this.state.id ? ( <h1>Contato: {this.state.id}</h1> ) : (<h1>Contato sem parâmetros </h1>)}
+			<div>
+				{this.state.id ? ( <h1>Contato: {this.state.id}</h1> ) : (<h1>Contato sem parâmetros </h1>)}
 			</div>
 
 		);
