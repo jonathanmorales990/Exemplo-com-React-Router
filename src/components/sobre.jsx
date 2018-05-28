@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-class Inicio extends Component {
+class Sobre extends Component {
 
 	render() {
   	
 		return (
 		    <div>
-		      	<h1>Bem vindo ao Inicio</h1>
+		      	<h1>Sobre nós</h1>
 	        </div>
 
 		);
@@ -14,4 +14,4 @@ class Inicio extends Component {
   	}
 }
 
-export default Inicio;
+export default Sobre;
