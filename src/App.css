@@ -1,7 +1,7 @@
 .App {
-  text-align: center;
+      text-align: center;
 }
-body,html{
-  margin: 0px;
-  padding:0px;
+body, html {
+      margin: 0;
+      padding: 0;
 }
