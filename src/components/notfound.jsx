@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 
 class Notfound extends Component {
-
-	render() {
-  	
+	render() {	
 		return (
 			<div>	
 				<div>
@@ -14,8 +12,7 @@ class Notfound extends Component {
 					<h2>Página não encontrada</h2>
 				</div>
 			</div>    
-		);
-	    
+		)    
   	}
 }
 
