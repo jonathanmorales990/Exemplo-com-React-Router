@@ -12,7 +12,7 @@ class Sobre extends Component {
 			<div>
 				{
 					this.state.id ? 
-						(<h1>Contato: {this.state.id}</h1>) : (<h1>Contato sem parâmetros </h1>)
+						(<h1>Contato: {this.state.id} </h1>) : (<h1>Contato sem parâmetros </h1>)
 				}
 			</div>
 		)
