@@ -7,7 +7,7 @@ class Sobre extends Component {
 				<h1>Sobre nós</h1>
 			</div>
 		)
-  	}
+	}
 }
 
 export default Sobre;

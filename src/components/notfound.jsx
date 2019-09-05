@@ -13,7 +13,7 @@ class Notfound extends Component {
 				</div>
 			</div>    
 		)    
-  	}
+	}
 }
 
 export default Notfound;

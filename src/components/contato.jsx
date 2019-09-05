@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 
 class Sobre extends Component {
 	constructor(props) {
-	    super(props);
-	    this.state = { 
-		    id: props.match.params.id 
-	    }
+		super(props);
+		this.state = { 
+			id: props.match.params.id
+		}
 	}
 	render() {
 		return (
@@ -16,7 +16,7 @@ class Sobre extends Component {
 				}
 			</div>
 		)
-  	}
+	}
 }
 
 export default Sobre;
